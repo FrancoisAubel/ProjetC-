@@ -1,0 +1,57 @@
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe.config
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.csprojResolveAssemblyReference.cache
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.BackOfficeCommercial.resources
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.Properties.Resources.resources
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.csproj.GenerateResource.Cache
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.exe
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionProduit.resources
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionClient.resources
+C:\Users\François\Documents\Visual Studio 2012\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionCommande.resources
+F:\Dropbox\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe.config
+F:\Dropbox\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.exe
+F:\Dropbox\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.BackOfficeCommercial.resources
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionClient.resources
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionCommande.resources
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionProduit.resources
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.Properties.Resources.resources
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.csproj.GenerateResource.Cache
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe.config
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.exe
+C:\Users\François\Dropbox\École\Année 2014-2015\Cours\GR - PPE\PPE GSB C#\Projet\BackOfficeCommercialV2\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe.config
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.BackOfficeCommercial.resources
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionClient.resources
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionCommande.resources
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionProduit.resources
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.Properties.Resources.resources
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.csproj.GenerateResource.Cache
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.exe
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe.config
+C:\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.exe
+C:\Documents\Visual Studio 2013\Projects\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.pdb
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe.config
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.exe
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.pdb
+C:\Users\François\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe.config
+C:\Users\François\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.exe
+C:\Users\François\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.pdb
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.XML
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.exe
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\bin\Debug\BackOfficeCommercial.pdb
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.csprojResolveAssemblyReference.cache
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.BackOfficeCommercial.resources
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionClient.resources
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionCommande.resources
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.GestionProduit.resources
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.Properties.Resources.resources
+F:\Dropbox\Dropbox\École\Année 2014-2015\Portefeuille de compétences\PPE_C#\Preuves\BackOfficeCommercial\BackOfficeCommercial\obj\Debug\BackOfficeCommercial.csproj.GenerateResource.Cache
